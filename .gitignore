@@ -5,12 +5,10 @@
 /.pnp
 .pnp.js
 
-# testing
-/coverage
 
-# production
-/build
-
+.env
+combined.log
+error.log
 # misc
 .DS_Store
 .env.local
