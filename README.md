@@ -3,3 +3,7 @@ This is an web app where a user with Strava account can sign in and authorize th
 App is on:
 https://triptomordor-app.onrender.com/
 
+<img width="1268" alt="Näyttökuva 2024-1-8 kello 20 11 42" src="https://github.com/saannsaar/Trip_To_Mordor_App/assets/62312066/536f5c36-3bc1-4cf6-99fb-a234a6337aeb">
+
+
+<img width="631" alt="Näyttökuva 2024-1-8 kello 20 11 49" src="https://github.com/saannsaar/Trip_To_Mordor_App/assets/62312066/1c50ead4-dd25-4296-883f-5d52399d56a3">
